@@ -1,4 +1,4 @@
-# Emotion Detection from Social Media Text using Deep Learning
+# Reddit Comment Sentiment Analysis using Deep Learning
 
 ## Description
 This project aims to build a deep learning model that detects emotions in social media posts (tweets, captions, etc.). By analyzing the text, the model classifies it into predefined emotion categories such as **happy**, **sad**, **angry**, etc. The model leverages **TF-IDF** for text vectorization and a **neural network** built with **TensorFlow** and **Keras** for classification.
